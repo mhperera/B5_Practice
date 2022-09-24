@@ -1,0 +1,12 @@
+### FEATURES OF B5
+
+    1) Dropped JQuery. Used Vanilla JS
+    2) Forms have been revamped
+    3) Right to Left (RTL) support
+    4) New uitility classes
+            positionning
+            font-size
+            border radius
+    5) Jumbotron gone
+    6) B5 Icons
+    7) New components - ( Offcanvas | Accordian )
