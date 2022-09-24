@@ -10,3 +10,4 @@
     5) Jumbotron gone
     6) B5 Icons
     7) New components - ( Offcanvas | Accordian )
+    8) Extra color variables
